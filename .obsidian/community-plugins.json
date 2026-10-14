@@ -3,5 +3,6 @@
   "obsidian-full-calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
