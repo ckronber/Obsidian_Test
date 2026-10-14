@@ -202,11 +202,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "68a8b5aae3301f64",
   "lastOpenFiles": [
+    "README.md~",
+    "README.md",
     "0-Inbox/neovim note.md",
     "0-Inbox/Hello World.md",
     "0-Inbox/This is a Note.md",
